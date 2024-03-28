@@ -30,7 +30,19 @@ Had experience working with **different types of sites and web applications**:
 - Quiz (web-games);
 - Web-configurator;
 
-[PORTFOLIO](https://benko-cv.vercel.app/portfolio/)
+<img src="https://github.com/benko-dev/benko-dev/assets/164163671/7098e773-52ad-4eef-8873-8325f1c85444" alt="Asicavenue" width="300" height="190">
+
+<img src="https://github.com/benko-dev/benko-dev/assets/164163671/bf1b4c4a-f168-4e6b-88b6-97371b4f8583" alt="ToDo App" width="300" height="190">
+
+<img src="https://github.com/benko-dev/benko-dev/assets/164163671/abe699fa-2a63-494d-ab39-830b645135d0" alt="Memcoin" width="300" height="190">
+
+<img src="https://github.com/benko-dev/benko-dev/assets/164163671/854e0a6b-0d8a-4389-8b8d-77b8d21773aa" alt="SashaShavit" width="300" height="190">
+
+<img src="https://github.com/benko-dev/benko-dev/assets/164163671/58f0591e-0b18-44be-aa49-d07b64e84757" alt="Art & Life" width="300" height="190">
+
+<img src="https://github.com/benko-dev/benko-dev/assets/164163671/a9910ae3-0621-4801-b970-fb8483e4790f" alt="CafeStreet" width="300" height="190">
+
+<img src="https://github.com/benko-dev/benko-dev/assets/164163671/251e5aa8-cd75-45c2-9a23-d855a1d8370f" alt="Hounter" width="300" height="190">
 
 ## Development Experience
   Based on my multifaceted experience, I always have a **fresh and complete vision** of the final product, **interested in improving it** throughout the development process.
