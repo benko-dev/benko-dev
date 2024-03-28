@@ -30,7 +30,7 @@ Had experience working with **different types of sites and web applications**:
 - Quiz (web-games);
 - Web-configurator;
 
-<img src="https://github.com/benko-dev/benko-dev/assets/164163671/7098e773-52ad-4eef-8873-8325f1c85444" alt="Asicavenue" width="300" height="190">
+[<img src="https://github.com/benko-dev/benko-dev/assets/164163671/7098e773-52ad-4eef-8873-8325f1c85444" alt="Asicavenue" width="300" height="190">](https://benko-dev.github.io/Asicavenue/)
 
 <img src="https://github.com/benko-dev/benko-dev/assets/164163671/bf1b4c4a-f168-4e6b-88b6-97371b4f8583" alt="ToDo App" width="300" height="190">
 
