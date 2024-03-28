@@ -33,5 +33,11 @@ Had experience working with **different types of sites and web applications**:
 [PORTFOLIO](https://benko-cv.vercel.app/portfolio/)
 
 ## Development Experience
-  Based on my multifaceted experience, I always have a fresh and complete vision of the final product, interested in improving it throughout the development process.
-  Ready to work both autonomously and in a team. Ready to take responsibility for the result and its maximum compliance with expectations.
+  Based on my multifaceted experience, I always have a **fresh and complete vision** of the final product, **interested in improving it** throughout the development process.
+  
+  Ready to work both **autonomously** and **in a team**. Ready to take responsibility for the result and its **maximum compliance with expectations**.
+
+## Design Experience
+  I have a full understanding of modern **UI** and **UX**. I am constantly **aware of new features** and try to apply them in the context of the task in order to improve analytics and just **the general picture of the product**. Developed designs from scratch for my two portfolio projects ([TODO App](https://to-do-app-blush-three.vercel.app/) and [My website](https://benko-cv.vercel.app/)). 
+  
+  Based on my understanding and experience in design, I can simultaneously **develop a design and write an interface with it**. I often developed a design for responsive (mobile and tablet versions) due to its absence in the editor.
