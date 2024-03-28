@@ -31,3 +31,7 @@ Had experience working with **different types of sites and web applications**:
 - Web-configurator;
 
 [PORTFOLIO](https://benko-cv.vercel.app/portfolio/)
+
+## Development Experience
+  Based on my multifaceted experience, I always have a fresh and complete vision of the final product, interested in improving it throughout the development process.
+  Ready to work both autonomously and in a team. Ready to take responsibility for the result and its maximum compliance with expectations.
